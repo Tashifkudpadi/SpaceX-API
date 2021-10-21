@@ -1,0 +1,53 @@
+.nav {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 70px;
+  background-color: rgb(108, 204, 204);
+}
+.left {
+  width: 450px;
+}
+
+.left h3 {
+  padding-left: 1.8rem;
+}
+
+.right {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 70px;
+}
+
+.right li {
+  list-style: none;
+  margin: 0 2.5rem;
+}
+
+.right li a {
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: 450;
+  color: #000;
+}
+.right li a:hover {
+  color: rgb(250, 250, 250);
+}
+
+.right li a.active {
+  color: #fff;
+}
+
+.icon {
+  display: flex;
+  align-items: flex-end;
+  margin-left: 120px;
+}
+.icon i {
+  font-size: 22px;
+  cursor: pointer;
+}
+.icon i:hover {
+  color: #fff;
+}
