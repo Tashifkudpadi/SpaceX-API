@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SpaceX-API/static/css/main.dbef15bc.chunk.css",
+    "main.js": "/SpaceX-API/static/js/main.3dca6202.chunk.js",
+    "main.js.map": "/SpaceX-API/static/js/main.3dca6202.chunk.js.map",
+    "runtime-main.js": "/SpaceX-API/static/js/runtime-main.87df6862.js",
+    "runtime-main.js.map": "/SpaceX-API/static/js/runtime-main.87df6862.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/SpaceX-API/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.2d932677.chunk.js": "/SpaceX-API/static/js/2.2d932677.chunk.js",
+    "static/js/2.2d932677.chunk.js.map": "/SpaceX-API/static/js/2.2d932677.chunk.js.map",
+    "index.html": "/SpaceX-API/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/SpaceX-API/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.dbef15bc.chunk.css.map": "/SpaceX-API/static/css/main.dbef15bc.chunk.css.map",
+    "static/js/2.2d932677.chunk.js.LICENSE.txt": "/SpaceX-API/static/js/2.2d932677.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87df6862.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.2d932677.chunk.js",
+    "static/css/main.dbef15bc.chunk.css",
+    "static/js/main.3dca6202.chunk.js"
+  ]
+}
